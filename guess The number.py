@@ -1,5 +1,5 @@
 import random
-
+import art
 def guess_the_number():
     number_to_guess = random.randint(1, 100)
     difficulty = input("Choose a difficulty level: easy or hard: ").lower()
@@ -31,5 +31,5 @@ def guess_the_number():
         print(f"You have {guesses} guesses left.\n")
 
     print(f"Game over! The number was {number_to_guess}.")
-
+print(art.logo)
 guess_the_number()
