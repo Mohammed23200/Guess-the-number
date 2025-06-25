@@ -51,7 +51,7 @@ python guess.py
 
 🧠 Based on: Dr. Angela Yu's #100DaysOfCode
 
-🧑‍💻 My GitHub Profile: YourGitHubUsername
+🧑‍💻 My GitHub Profile: https://github.com/Mohammed23200
 
-📁 This Project Repo: Guess The Number Repo
+📁 This Project Repo: https://github.com/Mohammed23200/Guess-the-number
 
